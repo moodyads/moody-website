@@ -1,0 +1,8 @@
+<svg width="500" height="600" viewBox="0 0 500 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="600" rx="60" fill="#11111F" />
+  <circle cx="140" cy="160" r="120" fill="#6A00F4" opacity="0.65" />
+  <circle cx="360" cy="280" r="140" fill="#F9B234" opacity="0.65" />
+  <path d="M60 480C160 420 360 580 440 500" stroke="#F9F9F9" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" opacity="0.5" />
+  <text x="80" y="220" fill="#F9B234" font-family="'Cairo', sans-serif" font-size="52" font-weight="700">حملات</text>
+  <text x="80" y="290" fill="white" font-family="'Poppins', sans-serif" font-size="48" font-weight="600">that roar</text>
+</svg>

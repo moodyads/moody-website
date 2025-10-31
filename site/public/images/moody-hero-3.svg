@@ -1,0 +1,14 @@
+<svg width="500" height="600" viewBox="0 0 500 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="600" rx="60" fill="url(#gradient)" />
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="500" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6A00F4" />
+      <stop offset="1" stop-color="#11111F" />
+    </linearGradient>
+  </defs>
+  <text x="60" y="160" fill="#F9B234" font-family="'Cairo', sans-serif" font-size="48" font-weight="700">Data</text>
+  <text x="60" y="230" fill="#FFFFFF" font-family="'Poppins', sans-serif" font-size="36" font-weight="600">meets</text>
+  <text x="60" y="300" fill="#F9B234" font-family="'Cairo', sans-serif" font-size="64" font-weight="700">Drama</text>
+  <text x="60" y="380" fill="#FFFFFF" font-family="'Poppins', sans-serif" font-size="28" font-weight="500">Performance-driven narratives</text>
+  <text x="60" y="420" fill="#FFFFFF" font-family="'Poppins', sans-serif" font-size="28" font-weight="500">crafted in Arabic & English</text>
+</svg>

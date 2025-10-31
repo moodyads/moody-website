@@ -1,0 +1,12 @@
+<svg width="500" height="600" viewBox="0 0 500 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="600" rx="60" fill="url(#paint0_radial)" />
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 60) rotate(45) scale(520 520)">
+      <stop stop-color="#F9B234" />
+      <stop offset="1" stop-color="#6A00F4" />
+    </radialGradient>
+  </defs>
+  <text x="50" y="180" fill="white" font-family="'Cairo', sans-serif" font-size="48" font-weight="700">Culture</text>
+  <text x="50" y="250" fill="#11111F" font-family="'Poppins', sans-serif" font-size="36" font-weight="600">meets</text>
+  <text x="50" y="320" fill="white" font-family="'Poppins', sans-serif" font-size="64" font-weight="700">Commerce</text>
+</svg>
